@@ -18,8 +18,7 @@ To run the Personal Library Manager, you need to have **Python 3.x** installed o
 ### 🚀 Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/personal-library-manager.git
-   cd personal-library-manager
+   git clone https://github.com/NarmeenAsghar/library-manager-streamlit.git
    ```
 
 2. **Create a virtual environment** (optional but recommended):
